@@ -45,17 +45,3 @@ npm install
 npm start
 ```
 
-**Expo Go**
-
-Download the [Expo Go](https://expo.dev/go) app onto your device, then use it to scan the QR code from Terminal and run.
-
-<h2>
-<a href="https://expo.dev/artifacts/eas/tiAhuyfESXq7feMuW7yhQr.apk">
-DOWNLOAD THE APK 🤙
-</a>
-</h2>
-<h2>
-<a href="https://drive.google.com/file/d/1Lyi-RIl1jOoVF-vCLOJPMJjVUKePHGUH/view?usp=drive_link">
-GOOGLE DRIVE LINK OF APK 🤙
-</a>
-</h2>
